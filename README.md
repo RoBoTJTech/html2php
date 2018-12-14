@@ -1,7 +1,7 @@
 # html2php
 Run .html files as .php without renaming
 
-Even though Adobe Muse is dead this concept could be useful for any site development tool that forces the page extensions to always be .html
+Even though Adobe Muse is dead, this concept could be useful for any site development tool that forces the page extensions to always be .html
 
 If you want to embed php code you would have to rename all your pages to .php and update all links on the pages, or you can make the php handler recognize .html files as .php
 
