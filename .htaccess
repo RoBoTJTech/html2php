@@ -1,0 +1,1 @@
+RewriteRule ^(.*)\.html$ /PATH_TO_HTML2PHP/html2php.php [L]
