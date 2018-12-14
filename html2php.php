@@ -10,3 +10,4 @@ $path.="index.html";
 chdir('.'.dirname($path));
 $_SERVER['SCRIPT_NAME']=$path;
 include(basename($path));
+?>
